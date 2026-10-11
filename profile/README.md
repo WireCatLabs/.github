@@ -1,7 +1,7 @@
 # WireCat — your context. Any agent.
 
 WireCat is a local-first context and action layer for AI agents. It gives the agent you already use —
-Claude Code, Codex, Cursor, Gemini CLI or any MCP client — your messages, meetings, notes and mail,
+Claude Code, Codex, Cursor, Gemini CLI or any CLI or MCP client — your messages, meetings, notes and mail,
 with local search, source references and limits you set. What the tools read is kept in a local
 database on your machine.
 
