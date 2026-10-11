@@ -1,0 +1,26 @@
+name: Feature request
+description: Something you want to do that the tool cannot do yet.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the tool's roadmap and open issues first; it may already be planned.
+  - type: textarea
+    id: task
+    attributes:
+      label: What you want to do
+      description: The task, in your words, not the command you imagine.
+    validations:
+      required: true
+  - type: textarea
+    id: limitation
+    attributes:
+      label: What stops you today
+      description: What you tried and where it falls short.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else
