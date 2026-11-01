@@ -28,7 +28,8 @@ commands), [cli-meetings](https://github.com/WireCatLabs/cli-meetings) (meetings
 
 ## Get involved
 
-Questions and ideas go to each tool's Discussions; bugs to its issues. Read
+Questions and ideas go to the community chat: [Discord](https://discord.gg/DebENqbRrJ) in English,
+[Telegram](https://t.me/wirecatdev) in Russian. Bugs go to each tool's issues. Read
 [CONTRIBUTING](https://github.com/WireCatLabs/community/blob/main/contributing/README.md) before a pull
 request, and report vulnerabilities privately under
 [SECURITY](https://github.com/WireCatLabs/community/blob/main/security/README.md).
